@@ -1,0 +1,59 @@
+name: absensi_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.1+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  shared_preferences: ^2.3.4
+  cached_network_image: ^3.4.1
+  dio: ^5.7.0
+  provider: ^6.1.2
+  json_annotation: ^4.9.0
+  cupertino_icons: ^1.0.8
+  fluttertoast: ^8.2.10
+  http: ^1.2.2
+  image_picker: ^1.1.2
+  file_picker: ^8.1.7
+  path_provider: ^2.1.5
+  permission_handler: ^11.3.1
+  lottie: 3.2.0
+  flutter_animate: ^4.5.2
+  table_calendar: ^3.1.3
+  location: ^7.0.1
+  latlong2: ^0.9.1
+  barcode_scan2: ^4.5.0
+  awesome_dialog: ^3.2.1
+  share_plus: ^10.1.4
+  image_cropper: ^8.1.0
+  google_maps_flutter: ^2.10.0
+  just_audio: ^0.9.46
+  shimmer: ^2.0.0
+  tutorial_coach_mark: ^1.2.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/LogoNoBg.png
+    - assets/lottie/education1.json
+    - assets/lottie/education2.json
+    - assets/lottie/education3.json
+    - assets/lottie/robot.json
+    - images/boy.png
+    - images/quiz.PNG
+    - images/pngtree-smk-logo-can-be-full-color-png-image_9041275.png
+    - images/STK-20250124-WA0028.png
+    - images/bg.jpg
+    - assets/result.mp3

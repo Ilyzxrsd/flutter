@@ -1,0 +1,2 @@
+G:/backup/file coding/absensi_app/android/app/.cxx/RelWithDebInfo/23j6b365/arm64-v8a/CMakeFiles/edit_cache.dir
+G:/backup/file coding/absensi_app/android/app/.cxx/RelWithDebInfo/23j6b365/arm64-v8a/CMakeFiles/rebuild_cache.dir
